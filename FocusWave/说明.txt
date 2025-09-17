@@ -1,0 +1,7 @@
+聚焦波脚本
+1、FocusWave_ADC_Analysis.m：分析FocusWave_Fast_Acq实时采集的ADC数据
+2、FocusWave_RF_Analysis.m：分析软件实时采集的RF数据
+3、Matlab_FocusWave_Acq.m ：用于matlab采集数据,非实时
+4、Matlab_ADC_Analysis：分析FoucsWave_Acq.m采集的ADC数据
+5、Matlab_RF_Analysis： 分析FoucsWave_Acq.m采集的RF数据
+6、FocusWave_Fast_Acq：用于matlab采集数据,实时
