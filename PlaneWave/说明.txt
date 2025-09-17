@@ -1,0 +1,3 @@
+平面波脚本
+1、PlaneWave_Acq：用于matlab采集数据,实时
+2、PlaneWave_ADC_Analysis：：用于分析matlab采集的数据
