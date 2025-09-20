@@ -1,0 +1,509 @@
+  root               1 701.87 background
+  MA3                2   0.02 Medial accesory oculomotor nucleus
+  PRNr               3   2.36 Pontine reticular nucleus
+  FOTU               4   1.05 Folium-tuber vermis (VII)
+  FL                 5   1.34 Flocculus
+  alv                6   1.40 alveus
+  scp                7   0.44 superior cerebelar peduncles
+  CPmvl              8   0.99 Caudoputamen, medial ventral lateral
+  BLAp               9   0.71 Basolateral amygdalar nucleus, posterior part
+  ts                10   0.01 solitary tract
+  BLAv              11   0.42 Basolateral amygdalar nucleus, ventral part
+  ProS              12   1.30 Prosubiculum
+  BLAa              13   0.77 Basolateral amygdalar nucleus, anterior part
+  SPA               14   0.13 Subparafascicular area
+  tb                15   0.30 trapezoid body
+  PIR               16  11.57 Piriform area
+  SNc               17   0.20 Substantia nigra, compact part
+  LHA               18   2.07 Lateral hypothalamic area
+  VISrl             19   1.02 Rostrolateral visual area
+  P                 20   3.60 Pons
+  FN                21   0.50 Fastigial nucleus
+  SNr               22   1.55 Substantia nigra, reticular part
+  em                23   0.11 external medullary lamina of the thalamus
+  AHN               24   0.71 Anterior hypothalamic nucleus
+  MOp               25  11.35 Primary motor area
+  NPC               26   0.29 Nucleus of the posterior commissure
+  LAV               27   0.29 Lateral vestibular nucleus
+  PSTN              28   0.17 Parasubthalamic nucleus
+  LSc               29   0.56 Lateral septal nucleus, caudal (caudodorsal) part
+  ENTl              30   6.38 Entorhinal area, lateral part
+  LSv               31   0.61 Lateral septal nucleus, ventral part
+  UVU               32   2.18 Uvula (IX)
+  LSr               33   1.88 Lateral septal nucleus, rostral (rostroventral) part
+  MPT               34   0.04 Medial pretectal area
+  PCG               35   0.54 Pontine central gray
+  mp                36   0.03 mammillary peduncle
+  TTd               37   0.72 Taenia tecta, dorsal part
+  cbc               38   0.07 cerebellar commissure
+  PRNc              39   2.35 Pontine reticular nucleus, caudal part
+  ccs               40   0.74 corpus callosum, splenium
+  TRN               41   0.69 Tegmental reticular nucleus
+  Mml               42   0.21 Medial mammillary nucleus, lateral part
+  COApl             43   1.20 Cortical amygdalar area, posterior part, lateral zone
+  COApm             44   1.30 Cortical amygdalar area, posterior part, medial zone
+  SIM               45   5.69 Simple lobule
+  sup               46   0.03 supraoptic commissures
+  ALp               47   2.43 Agranular insular area, posterior part
+  och               48   0.30 optic chiasm
+  CENT2             49   1.33 Lobule II
+  SSp-ll            50   2.35 Primary somatosensory area, lower limb
+  SCs(al)           51   0.43 Superior colliculus, superficial layers, anterior lateral
+  GRN               52   2.61 Gigantocellular reticular nucleus
+  IGL               53   0.07 Intergeniculate leaflet of the lateral geniculate complex
+  ME                54   0.08 Median eminence
+  MD                55   1.38 Mediodorsal nucleus of thalamus
+  MA                56   0.36 Magnocellular nucleus
+  MB                57   6.74 Midbrain
+  MH                58   0.32 Medial habenula
+  MT                59   0.04 Medial terminal nucleus of the accessory optic tract
+  GU                60   1.77 Gustatory areas
+  MV                61   1.82 Medial vestibular nucleus
+  MY                62   5.29 Medulla
+  INC               63   0.08 Interstitial nucleus of Cajal
+  FS                64   0.43 Fundus of striatum
+  PDTg              65   0.05 Posterodorsal tegmental nucleus
+  ANcr1             66   5.70 Crus 1
+  FC                67   0.06 Fasciola cinerea
+  FF                68   0.24 Fields of Forel
+  NOT               69   0.21 Nucleus of the optic tract
+  PRM               70   4.88 Paramedian lobule
+  icp               71   0.72 inferior cerebellar peduncle
+  BST               72   1.34 Bed nuclei of the stria terminalis
+  CTXsp             73   0.37 Cortical subplate
+  FRP6b             74   0.00 Frontal pole, layer 6b
+  AVPV              75   0.18 Anteroventral periventricular nucleus
+  SPVI              76   1.85 Spinal nucleus of the trigeminal, interpolar part
+  SPIV              77   0.75 Spinal vestibular nucleus
+  ee                78   0.09 corpus callosum, extreme capsule
+  PC5               79   0.07 Parvicellular motor 5 nucleus
+  SubG              80   0.03 Subgeniculate nucleus
+  IPL               81   0.10 Interpeduncular nucleus, lateral part
+  V                 82   0.35 Motor nucleus of trigeminal
+  OLF               83   5.04 Olfactory areas
+  PPT               84   0.14 Posterior pretectal nucleus
+  VMPO              85   0.05 Ventromedial preoptic nucleus
+  ml                86   0.66 medial lemniscus
+  MARN              87   0.53 Magnocellular reticular nucleus
+  VIIn              88   0.08 facial nerve
+  SI                89   3.03 Substantia innominata
+  SH                90   0.04 Septohippocampal nucleus
+  SO                91   0.05 Supraoptic nucleus
+  LGd-sh            92   0.21 Dorsal part of the lateral geniculate complex, shell
+  NTB               93   0.15 Nucleus of the trapezoid body
+  SG                94   0.02 Supragenual nucleus
+  SF                95   0.47 Septofimbrial nucleus
+  SPFp              96   0.13 Subparafascicular nucleus, parvicellular part
+  AOBgr             97   0.22 Accessory olfactory bulb, granular layer
+  aco               98   0.76 anterior commissure, olfactory limb
+  BAC               99   0.01 Bed nucleus of the anterior commissure
+  AOBgl            100   0.15 Accessory olfactory bulb, glomerular layer
+  VISl             101   1.23 Lateral visual area
+  COAa             102   0.77 Cortical amygdalar area, anterior part
+  LD               103   1.02 Lateral dorsal nucleus of thalamus
+  IIn              104   0.07 optic nerve
+  LA               105   0.84 Lateral amygdalar nucleus
+  LM               106   0.08 Lateral mammillary nucleus
+  pyd              107   0.07 pyramidal decussation
+  LH               108   0.35 Lateral habenula
+  VISam            109   0.79 Anteromedial visual area
+  DGv              110   0.90 Dentate gyrus, ventral
+  LT               111   0.02 Lateral terminal nucleus of the accessory optic tract
+  LP               112   1.20 Lateral posterior nucleus of the thalamus
+  VPM              113   1.64 Ventral posteromedial nucleus of the thalamus
+  VPL              114   0.88 Ventral posterolateral nucleus of the thalamus
+  P5               115   0.32 Peritrigeminal zone
+  VeCB             116   0.09 Vestibulocerebellar nucleus
+  y                117   0.02 Nucleus y
+  I5               118   0.04 Intertrigeminal nucleus
+  STN              119   0.19 Subthalamic nucleus
+  RR               120   0.14 Midbrain reticular nucleus, retrorubral area
+  sV               121   0.69 sensory root of the trigeminal nerve
+  fa               122   0.85 corpus callosum, anterior forceps
+  fi               123   1.51 fimbria
+  LC               124   0.01 Locus ceruleus
+  CA3v             125   1.56 CA3 subfield, ventral
+  CA2v             126   0.09 CA2 subfield, ventral
+  CA1v             127   2.07 CA1 subfield, ventral
+  or               128   1.84 optic radiation
+  sm               129   0.27 stria medullaris
+  LIN              130   0.06 Linear nucleus of the medulla
+  COPY             131   2.51 Copula pyramidis
+  AUDv             132   1.83 Ventral auditory area
+  csc              133   0.03 superior colliculus commissure
+  LING             134   0.12 Lingula (I)
+  NLOT1            135   0.11 Nucleus of the lateral olfactory tract, molecular layer
+  NLOT2            136   0.15 Nucleus of the lateral olfactory tract, pyramidal layer
+  RT               137   1.45 Reticular nucleus of the thalamus
+  ZI               138   1.56 Zona incerta
+  PRC              139   0.17 Precommissural nucleus
+  IPD              140   0.08 Interpeduncular nucleus, dorsal part
+  AON              141   4.87 Anterior olfactory nucleus
+  ll               142   0.83 lateral lemniscus
+  SAG              143   0.10 Nucleus sagulum
+  RE               144   0.42 Nucleus of reuniens
+  PRP              145   0.24 Nucleus prepositus
+  RL               146   0.05 Rostral linear nucleus raphe
+  RM               147   0.11 Nucleus raphe magnus
+  RN               148   0.79 Red nucleus
+  RO               149   0.03 Nucleus raphe obscurus
+  RH               150   0.09 Rhomboid nucleus
+  NTS              151   0.85 Nucleus of the solitary tract
+  cst              152   0.08 corticospinal tract
+  APr              153   0.32 Area prostriata
+  LPO              154   0.55 Lateral preoptic area
+  IPRL             155   0.02 Interpeduncular nucleus, rostrolateral
+  MRNpl            156   1.61 Midbrain reticular nucleus, posterior lateral
+  das              157   0.01 dorsal acoustic stria
+  SSp-un           158   1.26 Primary somatosensory area, unassigned
+  IPC              159   0.07 Interpeduncular nucleus, caudal
+  SUV              160   0.35 Superior vestibular nucleus
+  III              161   0.03 Oculomotor nucleus
+  VII              162   0.92 Facial motor nucleus
+  IPN              163   0.01 Interpeduncular nucleus
+  IPR              164   0.08 Interpeduncular nucleus, rostral
+  SFO              165   0.02 Subfornical organ
+  APN              166   1.28 Anterior pretectal nucleus
+  GPe              167   1.56 Globus pallidus, external segment
+  SCd(a)           168   0.66 Superior colliculus, deep layers, anterior
+  fp               169   1.36 corpus callosum, posterior forceps
+  ec               170   0.88 external capsule
+  HY               171   2.75 Hypothalamus
+  IIIn             172   0.01 oculomotor nerve
+  HATA             173   0.42 Hippocampo-amygdalar transition area
+  PGRNd            174   0.24 Paragigantocellular reticular nucleus, dorsal part
+  PGRNl            175   0.71 Paragigantocellular reticular nucleus, lateral part
+  vVIIIn           176   0.25 vestibular nerve
+  sctd             177   0.15 dorsal spinocerebellar tract
+  fx               178   0.27 columns of the fornix
+  VI               179   0.03 Abducens nucleus
+  sctv             180   0.28 ventral spinocerebellar tract
+  NLL              181   0.72 Nucleus of the lateral lemniscus
+  VISa             182   1.44 Anterior visual area
+  EW               183   0.02 Edinger-Westphal nucleus
+  PPN              184   0.89 Pedunculopontine nucleus
+  AUDpo            185   0.61 Posterior auditory area
+  SSp-ul           186   3.77 Primary somatosensory area, upper limb
+  st               187   0.31 stria terminalis
+  PVp              188   0.13 Periventricular hypothalamic nucleus, posterior part
+  IRN              189   2.78 Intermediate reticular nucleus
+  SSp-n            190   3.02 Primary somatosensory area, nose
+  ND               191   0.09 Nucleus of Darkschewitsch
+  PVa              192   0.05 Periventricular hypothalamic nucleus, anterior part
+  onl              193   4.13 olfactory nerve layer of main olfactory bulb
+  ISN              194   0.01 Inferior salivatory nucleus
+  PVi              195   0.19 Periventricular hypothalamic nucleus, intermediate part
+  Eth              196   0.24 Ethmoid nucleus of the thalamus
+  PYR              197   1.24 Pyramus (VIII)
+  DTN              198   0.10 Dorsal tegmental nucleus
+  vhc              199   0.07 ventral hippocampal commissure
+  PAA              200   1.19 Piriform-amygdalar area
+  PVT              201   0.43 Paraventricular nucleus of the thalamus
+  RSPagl           202   2.36 Restrosplenial area, lateral agranular part
+  ECT6b            203   0.05 Ectorhinal area/Layer 6b
+  SEZ              204   0.14 subependymal zone
+  HPF              205   0.42 Hippocampal formation
+  ECU              206   0.21 External cuneate nucleus
+  POST             207   1.08 Postsubiculum
+  SCi(al)          208   1.92 Superior colliculus, intermediate layers, anterior lateral
+  PVH              209   0.19 Paraventricular hypothalamic nucleus
+  ASO              210   0.01 Accessory supraoptic group
+  B                211   0.02 Barrington's nucleus
+  IMD              212   0.17 Intermediodorsal nucleus of the thalamus
+  CEAm             213   0.75 Central amygdalar nucleus, medial part
+  CEAl             214   0.26 Central amygdalar nucleus, lateral part
+  CEAc             215   0.31 Central amygdalar nucleus, capsular part
+  SOCm             216   0.20 Superior olivary complex, medial part
+  SOCl             217   0.34 Superior olivary complex, lateral part
+  CLA              218   0.55 Claustrum
+  TTv              219   0.72 Taenia tecta, ventral part
+  Mmp              220   0.04 Medial mammillary nucleus, posterior part
+  SSs              221   9.03 Supplemental somatosensory area
+  Xi               222   0.08 Xiphoid thalamic nucleus
+  KF               223   0.18 Koelliker-Fuse subnucleus
+  VMH              224   0.55 Ventromedial hypothalamic nucleus
+  stc              225   0.04 commissural branch of stria terminalis
+  dtd              226   0.01 doral tegmental decussation
+  Mmm              227   0.14 Medial mammillary nucleus, medial part
+  VPLpc            228   0.10 Ventral posterolateral nucleus of the thalamus, parvicellular part
+  DN               229   0.34 Dentate nucleus
+  VTA              230   0.43 Ventral tegmental area
+  AAA              231   0.49 Anterior amygdalar area
+  Ald              232   3.73 agranular insular area, dorsal part
+  PMv              233   0.20 Ventral premammillary nucleus
+  DT               234   0.01 Dorsal terminal nucleus of the accessory optic tract
+  DR               235   0.14 Dorsal nucleus raphe
+  DP               236   0.50 Dorsal peduncular area
+  bic              237   0.25 brachium of the inferior colliculus
+  MS               238   0.40 Medial septal nucleus
+  TEa              239   3.11 Temporal association areas
+  POR              240   0.36 Superior olivary complex, periolivary region
+  RPA              241   0.06 Nucleus raphe pallidus
+  VISpor6b         242   0.03 Postrhinal area, layer 6b
+  POL              243   0.21 Posterior limiting nucleus of the thalamus
+  RPO              244   0.10 Nucleus raphe pontis
+  Pa4              245   0.02 Paratrochlear nucleus
+  PoT              246   0.28 Posterior triangular thalamic nucleus
+  PeF              247   0.21 Perifornical nucleus
+  VCO              248   1.02 Ventral cochlear nucleus
+  ARH              249   0.28 Arcuate hypothalamic nucleus
+  x                250   0.06 Nucleus x
+  SLD              251   0.05 Sublaterodorsal nucleus
+  VTN              252   0.04 Ventral tegmental nucleus
+  LGv              253   0.40 Ventral part of the lateral geniculate complex
+  SLC              254   0.03 Subceruleus nucleus
+  ENTm             255   5.03 Entorhinal area, medial part
+  VISal            256   0.76 Anterolateral visual area
+  MGd              257   0.17 Medial geniculate complex, dorsal part
+  RSPd             258   3.80 Retrosplenial area, dorsal part
+  PAR              259   0.93 Parasubiculum
+  PAS              260   0.03 Parasolitary nucleus
+  ANcr2            261   5.11 Crus 2
+  RSPv             262   4.33 Retrosplenial area, ventral part
+  PAL              263   1.13 Pallidum
+  DCO              264   0.61 Dorsal cochlear nucleus
+  Acs5             265   0.01 Accessory trigeminal nucleus
+  bsc              266   0.20 brachium of the superior colliculus
+  PERI             267   0.79 Perirhinal area
+  IAM              268   0.04 Interanteromedial nucleus of the thalamus
+  VISp(pl)         269   1.67 Primary visual area, posterior lateral
+  df               270   0.04 dorsal fornix
+  PVHd             271   0.13 Paraventricular hypothalamic nucleus, descending division
+  Mmd              272   0.08 Medial mammillary nucleus, dorsal part
+  SSp-m            273   6.21 Primary somatosensory area, mouth
+  GPi              274   0.42 Globus pallidus, internal segment
+  VAL              275   0.82 Ventral anterior-lateral complex of the thalamus
+  DMH              276   0.37 Dorsomedial nucleus of the hypothalamus
+  ORB              277   5.89 Orbital area
+  PMd              278   0.13 Dorsal premammillary nucleus
+  arb              279   6.91 arbor vitae
+  DMX              280   0.17 Dorsal motor nucleus of the vagus nerve
+  PR               281   0.15 Perireunensis nucleus
+  PS               282   0.10 Parastrial nucleus
+  PP               283   0.06 Peripeduncular nucleus
+  PT               284   0.23 Parataenial nucleus
+  hbc              285   0.05 habenular commissure
+  PB               286   0.95 Parabrachial nucleus
+  CENT3            287   2.73 Lobule III
+  PA               288   0.97 Posterior amygdalar nucleus
+  PF               289   0.49 Parafascicular nucleus
+  PG               290   0.96 Pontine gray
+  PD               291   0.01 Posterodorsal preoptic nucleus
+  LDT              292   0.20 Laterodorsal tegmental nucleus
+  Mmme             293   0.08 Medial mammillary nucleus, median part
+  PH               294   0.70 Posterior hypothalamic nucleus
+  Alv              295   1.74 Agranular insular area, ventral part
+  PN               296   0.02 Paranigral nucleus
+  PO               297   1.25 Posterior complex of the thalamus
+  lotd             298   0.16 dorsal limb
+  MGm              299   0.25 Medial geniculate complex, medial part
+  PRE              300   0.92 Presubiculum
+  Pa5              301   0.10 Paratrigeminal nucleus
+  VISpor           302   1.25 Postrhinal area
+  vtd              303   0.04 ventral tegmental decussation
+  c                304   0.00 central canal, spinal cord/medulla
+  uf               305   0.08 uncinate fascicle
+  MGv              306   0.28 Medial geniculate complex, ventral part
+  VLPO             307   0.07 Ventrolateral preoptic nucleus
+  ACAv             308   2.40 Anterior cingulate area, ventral part
+  EPv              309   0.97 Endopiriform nucleus, ventral part
+  XII              310   0.28 Hypoglossal nucleus
+  MOB              311  16.46 Main olfactory bulb
+  PSV              312   1.10 Principal sensory nucleus of the trigeminal
+  VISpm            313   1.04 Posteromedial visual area
+  PST              314   0.01 Preparasubthalamic nucleus
+  gVIIn            315   0.03 genu of the facial nerve
+  ACAd             316   3.11 Anterior cingulate area, dorsal part
+  PL               317   2.40 Prelimbic area
+  V4r              318   0.46 lateral recess
+  SUM              319   0.25 Supramammillary nucleus
+  AUDd             320   1.21 Dorsal auditory area
+  cuf              321   0.02 cuneate fascicle
+  VISli            322   0.49 Laterointermediate visual area
+  TMv              323   0.11 Tuberomammillary nucleus, ventral part
+  SBPV             324   0.11 Subparaventricular zone
+  py               325   0.56 pyramid
+  pc               326   0.05 posterior commissure
+  TMd              327   0.03 Tuberomammillary nucleus, dorsal part
+  pm               328   0.03 principal mammillary tract
+  CM               329   0.25 Central medial nucleus of the thalamus
+  CB               330   0.82 Cerebellum
+  NDB              331   0.73 Diagonal band nucleus
+  scwm             332   1.07 supra-callosal cerebral white matter
+  CS               333   0.59 Superior central nucleus raphe
+  mct              334   0.01 medial corticohypothalamic tract
+  EPd              335   1.82 Endopiriform nucleus, dorsal part
+  CU               336   0.33 Cuneate nucleus
+  mcp              337   1.09 middle cerebellar peduncle
+  LGd-co           338   0.42 Dorsal part of the lateral geniculate complex, core
+  mlf              339   0.15 medial longitudinal fascicle
+  CLI              340   0.08 Central linear nucleus raphe
+  SPVC             341   1.68 Spinal nucleus of the trigeminal, caudal part
+  AMBv             342   0.02 Nucleus ambiguus, ventral division
+  SPVO             343   1.00 Spinal nucleus of the trigeminal, oral part
+  RCH              344   0.15 Retrochiasmatic area
+  AMBd             345   0.02 Nucleus ambiguus, dorsal division
+  RPF              346   0.06 Retroparafascicular nucleus
+  ECT              347   1.66 Ectorhinal area
+  AOBmi            348   0.28 Accessory olfactory bulb, mitral layer
+  cing             349   1.26 cingulum bundle
+  dhc              350   0.95 dorsal hippocampal commissure
+  V3               351   0.87 third ventricle
+  V4               352   0.50 fourth ventricle
+  ORBm6b           353   0.00 Orbital area, medial part, layer 6b
+  PPY              354   0.09 Parapyramidal nucleus
+  amc              355   0.17 amygdalar capsule
+  FRP5             356   0.37 Frontal pole, layer 5
+  FRP1             357   0.25 Frontal pole, layer 1
+  IP               358   0.86 Interposed nucleus
+  VISC             359   2.35 Visceral area
+  VL               360   2.12 lateral ventricle
+  VM               361   0.93 Ventral medial nucleus of the thalamus
+  FRP2/3           362   0.23 Frontal pole, layer 2/3
+  IV               363   0.01 Trochlear nucleus
+  IO               364   0.51 Inferior olivary complex
+  IA               365   0.18 Intercalated amygdalar nucleus
+  von              366   0.01 vomeronasal nerve
+  IG               367   0.12 Induseum griseum
+  IF               368   0.09 Interfascicular nucleus raphe
+  mtg              369   0.07 mammillotegmental tract
+  IAD              370   0.11 Interanterodorsal nucleus of the thalamus
+  PVpo             371   0.14 Periventricular hypothalamic nucleus, preoptic part
+  MEPO             372   0.04 Median preoptic nucleus
+  ccg              373   0.83 genu of corpus callosum
+  mfb              374   0.05 medial forebrain bundle
+  TU               375   0.52 Tuberal nucleus
+  BA               376   0.03 Bed nucleus of the accessory olfactory tract
+  PARN             377   2.25 Parvicellular reticular nucleus
+  MDRNv            378   0.94 Medullary reticular nucleus, ventral part
+  MDRNd            379   1.09 Medullary reticular nucleus, dorsal part
+  PIL              380   0.18 Posterior intralaminar thalamic nucleus
+  ccb              381   3.03 corpus callosum, body
+  ACVII            382   0.01 Accessory facial motor nucleus
+  chpl             383   1.43 choroid plexus
+  sptV             384   1.63 spinal tract of the trigeminal nerve
+  opt              385   0.70 optic tract
+  SMT              386   0.31 Submedial nucleus of the thalamus
+  SSp-tr           387   1.40 Primary somatosensory area, trunk
+  NOD              388   1.51 Nodulus (X)
+  moV              389   0.06 motor root of the trigeminal nerve
+  NLOT3            390   0.06 Nucleus of the lateral olfactory tract, layer 3
+  OV               391   0.01 Vascular organ of the lamina terminalis
+  OT               392   3.82 Olfactory tubercle
+  OP               393   0.06 Olivary pretectal nucleus
+  AMd              394   0.24 Anteromedial nucleus, dorsal part
+  DEC              395   3.32 Declive (VI)
+  SCH              396   0.07 Suprachiasmatic nucleus
+  FRP6a            397   0.11 Frontal pole, layer 6a
+  IVn              398   0.01 trochlear nerve
+  Su3              399   0.04 Supraoculomotor periaqueductal gray
+  dscp             400   0.05 superior cerebellar peduncle decussation
+  SPFm             401   0.07 Subparafascicular nucleus, magnocellular part
+  TRS              402   0.35 Triangular nucleus of septum
+  rust             403   0.57 rubrospinal tract
+  ILA              404   0.84 Infralimbic area
+  MPN              405   0.40 Medial preoptic nucleus
+  MPO              406   0.56 Medial preoptic area
+  AVP              407   0.09 Anteroventral preoptic nucleus
+  IntG             408   0.02 Intermediate geniculate nucleus
+  act              409   0.21 anterior commissure, temporal limb
+  ACB              410   4.40 Nucleus accumbens
+  SUB              411   2.10 Subiculum
+  SUT              412   0.26 Supratrigeminal nucleus
+  MOs              413  13.11 Secondary motor area
+  nst              414   0.11 nigrostriatal tract
+  GR               415   0.08 Gracile nucleus
+  NI               416   0.10 Nucleus incertus
+  NB               417   0.09 Nucleus of the brachium of the inferior colliculus
+  NR               418   0.03 Nucleus of Roller
+  SSp-bf           419   6.29 Primary somatosensory area, barrel field
+  ADP              420   0.10 Anterodorsal preoptic nucleus
+  fiber tracts     421   1.55 fiber tracts
+  fr               422   0.17 fasciculus retroflexus
+  CUN              423   0.55 Cuneiform nucleus
+  cic              424   0.02 inferior colliculus commissure
+  MEA              425   2.03 Medial amygdalar nucleus
+  STR              426   2.67 Striatum
+  mtt              427   0.13 mammillothalamic tract
+  ICc              428   1.13 Inferior colliculus, central nucleus
+  MEV              429   0.01 Midbrain trigeminal nucleus
+  BMAa             430   0.77 Basomedial amygdalar nucleus, anterior part
+  int              431   2.10 internal capsule
+  PFL              432   5.72 Paraflocculus
+  tspc             433   0.50 crossed tectospinal pathway
+  ar               434   0.41 auditory radiation
+  BMAp             435   0.72 Basomedial amygdalar nucleus, posterior part
+  tspd             436   0.00 direct tectospinal pathway
+  CL               437   0.36 Central lateral nucleus of the thalamus
+  TR               438   1.40 Postpiriform transition area
+  LRNm             439   0.51 Lateral reticular nucleus, magnocellular part
+  LRNp             440   0.06 Lateral reticular nucleus, parvicellular part
+  TH               441   0.92 Thalamus
+  SGN              442   0.18 Suprageniculate nucleus
+  AMv              443   0.17 Anteromedial nucleus, ventral part
+  PAGmv            444   0.41 Periaqueductal gray, medial ventral
+  AD               445   0.16 Anterodorsal nucleus
+  CUL4             446   6.71 Lobules IV-V
+  VISpl6b          447   0.01 Posterolateral visual area, layer 6b
+  ICB              448   0.05 Infracerebellar nucleus
+  PCN              449   0.24 Paracentral nucleus
+  SCO              450   0.01 Subcommissural organ
+  AQ               451   0.39 cerebral aqueduct
+  AP               452   0.05 Area postrema
+  AUDp             453   2.15 Primary auditory area
+  AT               454   0.04 Anterior tegmental nucleus
+  AV               455   0.42 Anteroventral nucleus of thalamus
+  PBG              456   0.04 Parabigeminal nucleus
+  VPMpc            457   0.21 Ventral posteromedial nucleus of the thalamus, parvicellular part
+  lot              458   0.90 lateral olfactory tract, body
+  cpd              459   0.88 cerebal peduncle
+  VISpl            460   0.79 Posterolateral visual area
+  ICe              461   2.00 Inferior colliculus, external nucleus
+  ICd              462   1.32 Inferior colliculus, dorsal nucleus
+  LGd-ip           463   0.10 Dorsal part of the lateral geniculate complex, ipsilateral zone
+  SCs(pl)          464   0.59 Superior colliculus, superficial layers, posterior lateral
+  SCi(pl)          465   0.99 Superior colliculus, intermediate layers, posterior lateral
+  SCd(p)           466   0.87 Superior colliculus, deep layers, posterior
+  SCs(pm)          467   0.61 Superior colliculus, superficial layers, posterior medial
+  SCs(am)          468   0.53 Superior colliculus, superficial layers, anterior medial
+  SCi(pl)          469   0.54 Superior colliculus, intermediate layers, posterior medial
+  SCi(am)          470   0.67 Superior colliculus, intermediate layers, anterior medial
+  MRNpm            471   1.87 Midbrain reticular nucleus, posterior medial
+  MRNal            472   0.56 Midbrain reticular nucleus, anterior lateral
+  MRNam            473   1.10 Midbrain reticular nucleus, anterior medial
+  PAGa             474   0.40 Periaqueductal gray, anterior part
+  PAGpv            475   0.79 Periaqueductal gray, posterior ventral 
+  PAGmd            476   0.36 Periaqueductal gray, medial dorsal
+  PAGml            477   0.58 Periaqueductal gray, medial lateral
+  PAGpl            478   0.90 Periaqueductal gray, posterior lateral
+  PAGpd            479   0.86 Periaqueductal gray, posterior dorsal
+  VISp(pm)         480   2.16 Primary visual area, posterior medial
+  VISp(al)         481   1.34 Primary visual area, anteior lateral
+  VISp(am)         482   1.91 Primary visual area, anterior medial
+  CPmvm            483   0.50 Caudoputamen, medial ventral medial
+  CPavm            484   1.12 Caudoputamen, anterior ventral medial
+  cpavl            485   1.28 Caudoputamen, anterior ventral lateral
+  CPcv             486   0.75 Caudoputamen, caudal ventral
+  CPmvc            487   2.03 Caudoputamen, medial ventral central
+  CPamm            488   2.53 Caudoputamen, anterior medial medial
+  CPmmm            489   0.83 Caudoputamen, medial medial medial
+  CPaml            490   1.94 Caudoputamen, anterior medial lateral
+  CPmmc            491   2.16 Caudoputamen, medial medial central
+  CPcml            492   2.17 Caudoputamen, caudal medial lateral
+  CPmml            493   1.43 Caudoputamen, medial medial lateral
+  CPcmm            494   0.15 Caudoputamen, caudal medial medial
+  CPadm            495   1.80 Caudoputamen, anterior dorsal medial
+  CPmdm            496   1.29 Caudoputamen, medial dorsal medial
+  CPadl            497   1.00 Caudoputamen, anterior dorsal lateral
+  CPmdc            498   2.25 Caudoputamen, medial dorsal central
+  CPcdm            499   0.55 Caudoputamen, caudal dorsal medial
+  CPmdl            500   0.36 Caudoputamen, medial dorsal lateral
+  CPcdl            501   0.89 Caudoputamen, caudal dorsal lateral
+  CA1d             502   6.09 CA1 subfield, dorsal part
+  CA3d             503   2.91 CA3 subfield, dorsal part
+  DGd              504   4.58 Dentate gyrus, dorsal part
+  DGi              505   1.12 Dentate gyrus, intermediate
+  CA3i             506   1.80 CA3 subfield, intermediate
+  CA1i             507   2.05 CA1 subfield, intermediate
+  CA2i             508   0.11 CA2 subfield, intermediate
+  CA2d             509   0.27 CA2 subfield, dorsal part
